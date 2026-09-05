@@ -194,6 +194,7 @@ int main(void)
 	        printf("Pritisni tipkalo za start.\r\n\r\n");
 	      }
 	      break;
+	  }
   }
   /* USER CODE END 3 */
 }
